@@ -1,4 +1,4 @@
-# Welcome to the Spotify Bandits Music Trivia Game
+# Welcome to the Mrec
 
 ## About
 
