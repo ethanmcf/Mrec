@@ -1,4 +1,4 @@
-# Welcome to the Mrec
+# Welcome to the Spotify Bandits ... Mrec
 
 ## About
 
